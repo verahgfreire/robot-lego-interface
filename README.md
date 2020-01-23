@@ -9,4 +9,4 @@ Asynchronous development using Java Threads, semaphores and monitors.
 * Wander
 * Follow wall
 
-![Lego Mindstorms Robot](https://images.app.goo.gl/38sHJwUqbbqZTZYx8)
+![Lego Mindstorms Robot](https://upload.wikimedia.org/wikipedia/commons/8/8c/Lego_Mindstorms_Nxt-FLL.jpg)
